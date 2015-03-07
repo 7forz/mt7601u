@@ -9,7 +9,7 @@ Source: http://www.mediatek.com/zh-CN/downloads/mt7601u-usb/
 
 Use
 
->patch -p1 < patch1.diff
+>patch -p1 < patch.patch
 
 to patch
 
